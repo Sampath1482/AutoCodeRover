@@ -13,3 +13,9 @@ AutoCodeRover is an AI-based system for automated bug detection and fixing.
 - AST
 - SBFL
 - Docker
+
+
+
+
+## Project Report
+[Click here to view the project report](./AutoCodeRover_Project_Report.pdf)
